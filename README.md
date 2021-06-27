@@ -11,9 +11,9 @@
 
 # Table of Contents
 
-1. [Cordova Learning Resources](https://github.com/mikeroyal/Cordova-Guide#cordova-learning)
+1. [Cordova Learning Resources](https://github.com/mikeroyal/Cordova-Guide#cordova-learning-resources)
 
-2. [Cordova Tools, Libraries and Frameworks](https://github.com/mikeroyal/Cordova-Guide#cordova-tools-and-frameworks)
+2. [Cordova Tools, Libraries and Frameworks](https://github.com/mikeroyal/Cordova-Guide#cordova-tools-libraries-and-frameworks)
 
 3. [HTML/CSS Development](https://github.com/mikeroyal/Cordova-Guide#html-css-development)
 
