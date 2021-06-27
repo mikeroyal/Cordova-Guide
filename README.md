@@ -15,7 +15,7 @@
 
 2. [Cordova Tools, Libraries and Frameworks](https://github.com/mikeroyal/Cordova-Guide#cordova-tools-libraries-and-frameworks)
 
-3. [HTML/CSS Development](https://github.com/mikeroyal/Cordova-Guide#html-css-development)
+3. [HTML/CSS Development](https://github.com/mikeroyal/Cordova-Guide#htmlcss-development)
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/123559075-b9d38480-d74e-11eb-8fc5-1d104a623f7b.png">
